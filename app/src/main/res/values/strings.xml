@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="work_human">WORK HUMAN!</string>
+    <string name="watchin_you">I\'M WATCHIN\' YOU!</string>
+    <string name="cat_looking_away">Cat looking away</string>
+    <string name="cat_looking_at_camera">Cat looking at camera</string>
 </resources>
